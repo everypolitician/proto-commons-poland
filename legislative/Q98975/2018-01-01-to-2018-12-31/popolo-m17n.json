@@ -1,0 +1,215 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pl": "Jan Maria Jackowski",
+        "lang:en": "Jan Maria Jackowski"
+      },
+      "id": "Q11718343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11718343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Kazimierz Kutz",
+        "lang:en": "Kazimierz Kutz"
+      },
+      "id": "Q1584789",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1584789"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Wojciech Trąmpczyński",
+        "lang:en": "Wojciech Trąmpczyński"
+      },
+      "id": "Q208952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208952"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Kazimierz Kleina",
+        "lang:en": "Kazimierz Kleina"
+      },
+      "id": "Q6381193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6381193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Aleksander Prystor",
+        "lang:en": "Aleksander Prystor"
+      },
+      "id": "Q82090",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82090"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Bogdan Borusewicz",
+        "lang:en": "Bogdan Borusewicz"
+      },
+      "id": "Q890410",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q890410"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pl": "Senat Rzeczypospolitej Polskiej",
+        "lang:en": "Senate of Poland"
+      },
+      "id": "Q98975",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q98975"
+        }
+      ],
+      "area_id": "Q36",
+      "seat_counts": {
+        "Q20066605": "100"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11718343-1858b148-4aaf-3214-7d41-ba30b7c3e80f",
+      "person_id": "Q11718343",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1584789-8bd6f7e2-4eaf-14a1-7eea-89da3bcc6101",
+      "person_id": "Q1584789",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q208952-F83F9522-113E-4846-82D8-5043BCFF11EA",
+      "person_id": "Q208952",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6381193-0604F3B4-7250-4C89-9D07-B64AE3EF4CA4",
+      "person_id": "Q6381193",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q82090-74f48f2c-4e4b-1c60-a0ad-79321c3eb580",
+      "person_id": "Q82090",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q890410-CC7DDDAA-C9B1-40F0-9300-92E6410EB541",
+      "person_id": "Q890410",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    }
+  ]
+}

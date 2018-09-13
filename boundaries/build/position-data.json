@@ -1,0 +1,59 @@
+[
+  {
+    "role_id": "Q19269361",
+    "role_name": {
+      "lang:pl": "poseł na Sejm",
+      "lang:en": "Member of the Sejm of the Republic of Poland"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:pl": "parlamentarzysta",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q98964",
+    "organization_name": {
+      "lang:pl": "Sejm Rzeczypospolitej Polskiej",
+      "lang:en": "Sejm of the Republic of Poland"
+    }
+  },
+  {
+    "role_id": "Q20066605",
+    "role_name": {
+      "lang:pl": "senator Rzeczypospolitej Polskiej",
+      "lang:en": "senator of Poland"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:pl": "senator",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q98975",
+    "organization_name": {
+      "lang:pl": "Senat Rzeczypospolitej Polskiej",
+      "lang:en": "Senate of Poland"
+    }
+  },
+  {
+    "role_id": "Q3846811",
+    "role_name": {
+      "lang:pl": "Marszałek Senatu Rzeczypospolitej Polskiej",
+      "lang:en": "Marshal of the Senate of the Republic of Poland"
+    },
+    "generic_role_id": "Q20066605",
+    "generic_role_name": {
+      "lang:pl": "senator Rzeczypospolitej Polskiej",
+      "lang:en": "senator of Poland"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q98975",
+    "organization_name": {
+      "lang:pl": "Senat Rzeczypospolitej Polskiej",
+      "lang:en": "Senate of Poland"
+    }
+  }
+]

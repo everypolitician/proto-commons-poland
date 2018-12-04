@@ -13,6 +13,17 @@
   {
     "comment": "Sejm of the Republic of Poland",
     "house_item_id": "Q98964",
+    "position_item_id": "Q100172",
+    "terms": [
+      {
+        "comment": "8th Polish Sejm",
+        "term_item_id": "Q22056381"
+      }
+    ]
+  },
+  {
+    "comment": "Sejm of the Republic of Poland",
+    "house_item_id": "Q98964",
     "position_item_id": "Q19269361",
     "terms": [
       {

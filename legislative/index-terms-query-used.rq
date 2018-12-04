@@ -6,6 +6,7 @@ SELECT DISTINCT
   ?termSpecificPosition
 WHERE {
   VALUES (?house ?position) {
+    (wd:Q98964 wd:Q100172)
     (wd:Q98964 wd:Q19269361)
     (wd:Q98975 wd:Q20066605)
     (wd:Q5600722 rdf:nil)

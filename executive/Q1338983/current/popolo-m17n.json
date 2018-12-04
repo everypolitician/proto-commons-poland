@@ -1,0 +1,233 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:pl": "Mateusz Morawiecki",
+        "lang:en": "Mateusz Morawiecki"
+      },
+      "id": "Q11771436",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11771436"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Felicjan Sławoj Składkowski",
+        "lang:en": "Felicjan Sławoj Składkowski"
+      },
+      "id": "Q1403120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1403120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Edward Babiuch",
+        "lang:en": "Edward Babiuch"
+      },
+      "id": "Q323292",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q323292"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Mieczysław Rakowski",
+        "lang:en": "Mieczysław Rakowski"
+      },
+      "id": "Q559771",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q559771"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Władysław Wróblewski",
+        "lang:en": "Władysław Wróblewski"
+      },
+      "id": "Q726857",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q726857"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:pl": "Rada Ministrów w Polsce",
+        "lang:en": "Cabinet of Poland"
+      },
+      "id": "Q1338983",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1338983"
+        }
+      ],
+      "area_id": "Q36"
+    },
+    {
+      "name": {
+        "lang:pl": "Prawo i Sprawiedliwość",
+        "lang:en": "Law and Justice"
+      },
+      "id": "Q156874",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q156874"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Polska Partia Socjalistyczna",
+        "lang:en": "Polish Socialist Party"
+      },
+      "id": "Q210431",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q210431"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Polska Zjednoczona Partia Robotnicza",
+        "lang:en": "Polish United Workers' Party"
+      },
+      "id": "Q537303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q537303"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11771436-3cb87835-47ad-9824-569b-1729367f9b02",
+      "person_id": "Q11771436",
+      "on_behalf_of_id": "Q156874",
+      "organization_id": "Q1338983",
+      "area_id": "Q36",
+      "start_date": "2017-12-11",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pl": "premier",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q3259469",
+      "role": {
+        "lang:pl": "Prezes Rady Ministrów",
+        "lang:en": "Prime Minister of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1403120-2fb20e68-4199-88b7-05a2-56d8e79898cd",
+      "person_id": "Q1403120",
+      "on_behalf_of_id": "Q210431",
+      "organization_id": "Q1338983",
+      "area_id": "Q36",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pl": "premier",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q3259469",
+      "role": {
+        "lang:pl": "Prezes Rady Ministrów",
+        "lang:en": "Prime Minister of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q323292-f8e45761-4f7b-c3d5-f53a-2f35185f70a1",
+      "person_id": "Q323292",
+      "on_behalf_of_id": "Q537303",
+      "organization_id": "Q1338983",
+      "area_id": "Q36",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pl": "premier",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q3259469",
+      "role": {
+        "lang:pl": "Prezes Rady Ministrów",
+        "lang:en": "Prime Minister of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q559771-763BD18C-B3D4-4CA1-AC88-16E89B669450",
+      "person_id": "Q559771",
+      "on_behalf_of_id": "Q537303",
+      "organization_id": "Q1338983",
+      "area_id": "Q36",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pl": "premier",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q3259469",
+      "role": {
+        "lang:pl": "Prezes Rady Ministrów",
+        "lang:en": "Prime Minister of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q726857-6fee162f-4559-a391-26af-3c43763fbe7b",
+      "person_id": "Q726857",
+      "organization_id": "Q1338983",
+      "area_id": "Q36",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:pl": "premier",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q3259469",
+      "role": {
+        "lang:pl": "Prezes Rady Ministrów",
+        "lang:en": "Prime Minister of Poland"
+      }
+    }
+  ]
+}

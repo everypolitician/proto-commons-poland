@@ -1,5 +1,14 @@
 WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position Marszałek Sejmu Rzeczypospolitej Polskiej (Q100172) not in boundary associated_wikidata_positions
+WARNING: the district Okręg wyborczy nr 10 do Sejmu RP (Q11797298) wasn't found in the boundary data for position poseł na Sejm (Q19269361)
+WARNING: the district Okręg wyborczy nr 6 do Sejmu RP (Q6695391) wasn't found in the boundary data for position poseł na Sejm (Q19269361)
 WARNING: Position poseł na Sejm (Q19269361) not in boundary associated_wikidata_positions
 WARNING: the district Okręg wyborczy nr 10 do Sejmu RP (Q11797298) wasn't found in the boundary data for position poseł na Sejm (Q19269361)
 WARNING: the district Okręg wyborczy nr 6 do Sejmu RP (Q6695391) wasn't found in the boundary data for position poseł na Sejm (Q19269361)
 WARNING: Position senator Rzeczypospolitej Polskiej (Q20066605) not in boundary associated_wikidata_positions
+WARNING: Position Prezes Rady Ministrów (Q3259469) not in boundary associated_wikidata_positions
+WARNING: the district Polska (Q36) wasn't found in the boundary data for position Prezes Rady Ministrów (Q3259469)
+WARNING: the district Polska (Q36) wasn't found in the boundary data for position Prezes Rady Ministrów (Q3259469)
+WARNING: the district Polska (Q36) wasn't found in the boundary data for position Prezes Rady Ministrów (Q3259469)
+WARNING: the district Polska (Q36) wasn't found in the boundary data for position Prezes Rady Ministrów (Q3259469)
+WARNING: the district Polska (Q36) wasn't found in the boundary data for position Prezes Rady Ministrów (Q3259469)

@@ -50,6 +50,22 @@
     },
     {
       "name": {
+        "lang:pl": "Jarosław Gowin",
+        "lang:en": "Jarosław Gowin"
+      },
+      "id": "Q222905",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q222905"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pl": "Kazimierz Kleina",
         "lang:en": "Kazimierz Kleina"
       },
@@ -154,6 +170,21 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q208952-F83F9522-113E-4846-82D8-5043BCFF11EA",
       "person_id": "Q208952",
+      "organization_id": "Q98975",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:pl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q20066605",
+      "role": {
+        "lang:pl": "senator Rzeczypospolitej Polskiej",
+        "lang:en": "senator of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q222905-5f804a38-4f06-b01f-42ed-e32d3eef6cba",
+      "person_id": "Q222905",
       "organization_id": "Q98975",
       "role_superclass_code": "Q15686806",
       "role_superclass": {

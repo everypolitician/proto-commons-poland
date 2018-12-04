@@ -2,6 +2,38 @@
   "persons": [
     {
       "name": {
+        "lang:pl": "Cezary Grabarczyk",
+        "lang:en": "Cezary Grabarczyk"
+      },
+      "id": "Q1058052",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1058052"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Dariusz Bąk",
+        "lang:en": "Dariusz Bąk"
+      },
+      "id": "Q1166028",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1166028"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:pl": "Krystyna Pawłowicz",
         "lang:en": "Krystyna Pawłowicz"
       },
@@ -49,6 +81,38 @@
           "note": "facebook",
           "url": "https://www.facebook.com/PatrykJaki"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Adam Lipiński",
+        "lang:en": "Adam Lipiński"
+      },
+      "id": "Q123758",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q123758"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:pl": "Marek Sawicki",
+        "lang:en": "Marek Sawicki"
+      },
+      "id": "Q1249225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1249225"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -258,6 +322,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:pl": "Ryszard Petru",
+        "lang:en": "Ryszard Petru"
+      },
+      "id": "Q9324899",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9324899"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -299,6 +379,36 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1058052-bd11c716-4831-4115-f2df-eef1b975efeb",
+      "person_id": "Q1058052",
+      "organization_id": "Q98964",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pl": "parlamentarzysta",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19269361",
+      "role": {
+        "lang:pl": "poseł na Sejm",
+        "lang:en": "Member of the Sejm of the Republic of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1166028-45278318-4b00-bf8b-442c-63d44af23c1c",
+      "person_id": "Q1166028",
+      "organization_id": "Q98964",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pl": "parlamentarzysta",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19269361",
+      "role": {
+        "lang:pl": "poseł na Sejm",
+        "lang:en": "Member of the Sejm of the Republic of Poland"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q11748756-58989efa-498d-495b-d944-416c7b371129",
       "person_id": "Q11748756",
       "organization_id": "Q98964",
@@ -333,6 +443,36 @@
       "id": "http://www.wikidata.org/entity/statement/Q11813593-648edad8-42c0-9c12-9aff-1a808ced4a4a",
       "person_id": "Q11813593",
       "on_behalf_of_id": "Q156874",
+      "organization_id": "Q98964",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pl": "parlamentarzysta",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19269361",
+      "role": {
+        "lang:pl": "poseł na Sejm",
+        "lang:en": "Member of the Sejm of the Republic of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q123758-5659762b-4d34-37ef-d781-75915a21d748",
+      "person_id": "Q123758",
+      "organization_id": "Q98964",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pl": "parlamentarzysta",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19269361",
+      "role": {
+        "lang:pl": "poseł na Sejm",
+        "lang:en": "Member of the Sejm of the Republic of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1249225-e3acb083-4ee3-959f-4862-f2518bd65f18",
+      "person_id": "Q1249225",
       "organization_id": "Q98964",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -540,6 +680,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q7196976-1888b0bd-438a-0031-d1ab-38fd0a9614b1",
       "person_id": "Q7196976",
       "organization_id": "Q98964",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:pl": "parlamentarzysta",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19269361",
+      "role": {
+        "lang:pl": "poseł na Sejm",
+        "lang:en": "Member of the Sejm of the Republic of Poland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9324899-F28CD451-60B2-4F8C-8BF9-C905D8EFFAD9",
+      "person_id": "Q9324899",
+      "organization_id": "Q98964",
+      "start_date": "2015-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:pl": "parlamentarzysta",

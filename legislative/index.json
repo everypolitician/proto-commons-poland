@@ -1,40 +1,37 @@
 [
   {
-    "comment": "Greater Poland Regional Assembly",
-    "house_item_id": "Q5600722",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Sejm of the Republic of Poland",
     "house_item_id": "Q98964",
+    "seat_count": "460",
+    "area_id": "Q36",
     "position_item_id": "Q100172",
     "terms": [
       {
         "comment": "8th Polish Sejm",
-        "term_item_id": "Q22056381"
+        "term_item_id": "Q22056381",
+        "start_date": "2015-11-12"
       }
     ]
   },
   {
     "comment": "Sejm of the Republic of Poland",
     "house_item_id": "Q98964",
+    "seat_count": "460",
+    "area_id": "Q36",
     "position_item_id": "Q19269361",
     "terms": [
       {
         "comment": "8th Polish Sejm",
-        "term_item_id": "Q22056381"
+        "term_item_id": "Q22056381",
+        "start_date": "2015-11-12"
       }
     ]
   },
   {
     "comment": "Senate of Poland",
     "house_item_id": "Q98975",
+    "seat_count": "100",
+    "area_id": "Q36",
     "position_item_id": "Q20066605",
     "terms": [
       {

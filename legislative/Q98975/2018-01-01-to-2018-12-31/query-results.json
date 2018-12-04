@@ -1,498 +1,531 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_pl", "name_en", "party", "party_name_pl", "party_name_en", "district", "district_name_pl", "district_name_en", "role", "role_pl", "role_en", "role_superclass", "role_superclass_pl", "role_superclass_en", "start", "end", "facebook", "org", "org_pl", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pl",
+      "name_en",
+      "party",
+      "party_name_pl",
+      "party_name_en",
+      "district",
+      "district_name_pl",
+      "district_name_en",
+      "role",
+      "role_pl",
+      "role_en",
+      "role_superclass",
+      "role_superclass_pl",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_pl",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q11718343-1858b148-4aaf-3214-7d41-ba30b7c3e80f"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11718343"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Jan Maria Jackowski"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Maria Jackowski"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1584789-8bd6f7e2-4eaf-14a1-7eea-89da3bcc6101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1584789"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Kazimierz Kutz"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kazimierz Kutz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q208952-F83F9522-113E-4846-82D8-5043BCFF11EA"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208952"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Wojciech Trąmpczyński"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wojciech Trąmpczyński"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q222905-5f804a38-4f06-b01f-42ed-e32d3eef6cba"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q222905"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Jarosław Gowin"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jarosław Gowin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6381193-0604F3B4-7250-4C89-9D07-B64AE3EF4CA4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6381193"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Kazimierz Kleina"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kazimierz Kleina"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q82090-74f48f2c-4e4b-1c60-a0ad-79321c3eb580"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82090"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Aleksander Prystor"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aleksander Prystor"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11718343"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jan Maria Jackowski"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Jan Maria Jackowski"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11718343-1858b148-4aaf-3214-7d41-ba30b7c3e80f"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q890410-CC7DDDAA-C9B1-40F0-9300-92E6410EB541"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q890410"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Bogdan Borusewicz"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bogdan Borusewicz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20066605"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator Rzeczypospolitej Polskiej"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98975"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Senat Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "100"
+        }
       }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1584789"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kazimierz Kutz"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Kazimierz Kutz"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1584789-8bd6f7e2-4eaf-14a1-7eea-89da3bcc6101"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q208952"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wojciech Trąmpczyński"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Wojciech Trąmpczyński"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q208952-F83F9522-113E-4846-82D8-5043BCFF11EA"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q222905"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jarosław Gowin"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Jarosław Gowin"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q222905-5f804a38-4f06-b01f-42ed-e32d3eef6cba"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6381193"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kazimierz Kleina"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Kazimierz Kleina"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6381193-0604F3B4-7250-4C89-9D07-B64AE3EF4CA4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82090"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aleksander Prystor"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Aleksander Prystor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q82090-74f48f2c-4e4b-1c60-a0ad-79321c3eb580"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20066605"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "senator Rzeczypospolitej Polskiej"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q890410"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bogdan Borusewicz"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Bogdan Borusewicz"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98975"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Senat Rzeczypospolitej Polskiej"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q890410-CC7DDDAA-C9B1-40F0-9300-92E6410EB541"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "100"
-      }
-    } ]
+    ]
   }
 }

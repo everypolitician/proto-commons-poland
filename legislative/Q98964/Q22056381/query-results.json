@@ -1,1579 +1,1626 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_pl", "name_en", "party", "party_name_pl", "party_name_en", "district", "district_name_pl", "district_name_en", "role", "role_pl", "role_en", "role_superclass", "role_superclass_pl", "role_superclass_en", "start", "end", "facebook", "org", "org_pl", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_pl",
+      "name_en",
+      "party",
+      "party_name_pl",
+      "party_name_en",
+      "district",
+      "district_name_pl",
+      "district_name_en",
+      "role",
+      "role_pl",
+      "role_en",
+      "role_superclass",
+      "role_superclass_pl",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_pl",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1058052-bd11c716-4831-4115-f2df-eef1b975efeb"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1058052-bd11c716-4831-4115-f2df-eef1b975efeb"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1058052"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Cezary Grabarczyk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cezary Grabarczyk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1166028-45278318-4b00-bf8b-442c-63d44af23c1c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1166028"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Dariusz Bąk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dariusz Bąk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q11748756-58989efa-498d-495b-d944-416c7b371129"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11748756"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Krystyna Pawłowicz"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Krystyna Pawłowicz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q11770240-a16fc9f9-482f-70d7-bb63-7a4092c1f9f9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11770240"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Mariusz Witczak"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mariusz Witczak"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-11-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q11813593-648edad8-42c0-9c12-9aff-1a808ced4a4a"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11813593"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Patryk Jaki"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Patryk Jaki"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q156874"
+        },
+        "party_name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Prawo i Sprawiedliwość"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Law and Justice"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "PatrykJaki"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q123758-5659762b-4d34-37ef-d781-75915a21d748"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123758"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Adam Lipiński"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adam Lipiński"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1249225-e3acb083-4ee3-959f-4862-f2518bd65f18"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1249225"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Marek Sawicki"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marek Sawicki"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1058052"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q143520-863b498e-45bc-a264-418a-1e25c882b671"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q143520"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Stanisław Gawłowski"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stanisław Gawłowski"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2005-09-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cezary Grabarczyk"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19690176-75e100aa-48c5-f275-2d22-89ceb1e9e9a7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19690176"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Bożena Henczyca"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bożena Henczyca"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-11-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Cezary Grabarczyk"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19690215-420C0565-D2BC-4646-89B4-3F3A9ACDA877"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19690215"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Krzysztof Paszyk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Krzysztof Paszyk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-01-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282027-4846d9db-494d-921c-74d7-9b35b9fb41ce"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282027"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Kinga Gajewska"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinga Gajewska"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282033-493f1fbc-4073-1742-379e-c2a1a6d910a5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282033"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Marta Golbik"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marta Golbik"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-11-12T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282037-949DE84B-05E5-4F4D-9A51-85963EDF5E1D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282037"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Zbigniew Gryglas"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zbigniew Gryglas"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-01-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282085-6f248f45-4029-972d-a30e-fb640dcb8419"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282085"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Beata Mateusiak-Pielucha"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Beata Mateusiak-Pielucha"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-11-12T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282139-03c2cd93-42b2-c170-8603-2e0706a945bc"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282139"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Ewa Szymańska"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ewa Szymańska"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-11-12T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21282156-fb2c31ae-4d79-7eef-63c2-e7380fe627ca"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21282156"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Rafał Wójcikowski"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rafał Wójcikowski"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11797298"
+        },
+        "district_name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Okręg wyborczy nr 10 do Sejmu RP"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Electoral District 10 of the Polish Sejm"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q28744997-369fade3-4c6c-b517-457e-fd147a9f653d"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28744997"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Małgorzata Janowska"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Małgorzata Janowska"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q30045841-968cd221-4af8-9434-6b66-116510b1cdee"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30045841"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Marta Kubiak"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marta Kubiak"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-05-24T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q439058-75249615-4cbb-9e47-e20e-6209d8efdd69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q439058"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Joanna Mucha"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joanna Mucha"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6695391"
+        },
+        "district_name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Okręg wyborczy nr 6 do Sejmu RP"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lublin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-10-21T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7196976-1888b0bd-438a-0031-d1ab-38fd0a9614b1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7196976"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Piotr Król"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piotr Marek Król"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q9324899-F28CD451-60B2-4F8C-8BF9-C905D8EFFAD9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9324899"
+        },
+        "name_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Ryszard Petru"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ryszard Petru"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19269361"
+        },
+        "role_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "poseł na Sejm"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Sejm of the Republic of Poland"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "parlamentarzysta"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-01-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98964"
+        },
+        "org_pl": {
+          "xml:lang": "pl",
+          "type": "literal",
+          "value": "Sejm Rzeczypospolitej Polskiej"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sejm of the Republic of Poland"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "460"
+        }
       }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1166028-45278318-4b00-bf8b-442c-63d44af23c1c"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1166028"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dariusz Bąk"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Dariusz Bąk"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11748756-58989efa-498d-495b-d944-416c7b371129"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11748756"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Krystyna Pawłowicz"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Krystyna Pawłowicz"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11770240-a16fc9f9-482f-70d7-bb63-7a4092c1f9f9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11770240"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mariusz Witczak"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Mariusz Witczak"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2011-11-08T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11813593-648edad8-42c0-9c12-9aff-1a808ced4a4a"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11813593"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Patryk Jaki"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Patryk Jaki"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q156874"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Law and Justice"
-      },
-      "party_name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Prawo i Sprawiedliwość"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "PatrykJaki"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q123758-5659762b-4d34-37ef-d781-75915a21d748"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q123758"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Adam Lipiński"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Adam Lipiński"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1249225-e3acb083-4ee3-959f-4862-f2518bd65f18"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1249225"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marek Sawicki"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Marek Sawicki"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q143520-863b498e-45bc-a264-418a-1e25c882b671"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q143520"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stanisław Gawłowski"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Stanisław Gawłowski"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2005-09-25T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19690176-75e100aa-48c5-f275-2d22-89ceb1e9e9a7"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19690176"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bożena Henczyca"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Bożena Henczyca"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2011-11-08T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19690215-420C0565-D2BC-4646-89B4-3F3A9ACDA877"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19690215"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Krzysztof Paszyk"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Krzysztof Paszyk"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-01-01T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282027-4846d9db-494d-921c-74d7-9b35b9fb41ce"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282027"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinga Gajewska"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Kinga Gajewska"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282033-493f1fbc-4073-1742-379e-c2a1a6d910a5"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282033"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marta Golbik"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Marta Golbik"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-11-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282037-949DE84B-05E5-4F4D-9A51-85963EDF5E1D"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282037"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zbigniew Gryglas"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Zbigniew Gryglas"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-01-01T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282085-6f248f45-4029-972d-a30e-fb640dcb8419"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282085"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Beata Mateusiak-Pielucha"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Beata Mateusiak-Pielucha"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-11-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282139-03c2cd93-42b2-c170-8603-2e0706a945bc"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282139"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ewa Szymańska"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Ewa Szymańska"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-11-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21282156-fb2c31ae-4d79-7eef-63c2-e7380fe627ca"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21282156"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rafał Wójcikowski"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Rafał Wójcikowski"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11797298"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Electoral District 10 of the Polish Sejm"
-      },
-      "district_name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Okręg wyborczy nr 10 do Sejmu RP"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28744997-369fade3-4c6c-b517-457e-fd147a9f653d"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28744997"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Małgorzata Janowska"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Małgorzata Janowska"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q30045841-968cd221-4af8-9434-6b66-116510b1cdee"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30045841"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marta Kubiak"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Marta Kubiak"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-24T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q439058-75249615-4cbb-9e47-e20e-6209d8efdd69"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q439058"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Joanna Mucha"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Joanna Mucha"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-10-21T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6695391"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lublin"
-      },
-      "district_name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Okręg wyborczy nr 6 do Sejmu RP"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7196976-1888b0bd-438a-0031-d1ab-38fd0a9614b1"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7196976"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Piotr Marek Król"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Piotr Król"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q9324899-F28CD451-60B2-4F8C-8BF9-C905D8EFFAD9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role_superclass_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "parlamentarzysta"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19269361"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Sejm of the Republic of Poland"
-      },
-      "role_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "poseł na Sejm"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9324899"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ryszard Petru"
-      },
-      "name_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Ryszard Petru"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q98964"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sejm of the Republic of Poland"
-      },
-      "org_pl" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sejm Rzeczypospolitej Polskiej"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "460"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-01-01T00:00:00Z"
-      }
-    } ]
+    ]
   }
 }

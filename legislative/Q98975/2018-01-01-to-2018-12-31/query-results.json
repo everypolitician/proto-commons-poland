@@ -244,6 +244,76 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222905"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jarosław Gowin"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Jarosław Gowin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98975"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Poland"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Senat Rzeczypospolitej Polskiej"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q222905-5f804a38-4f06-b01f-42ed-e32d3eef6cba"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "100"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20066605"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator of Poland"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "senator Rzeczypospolitej Polskiej"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6381193"
       },
       "name_en" : {

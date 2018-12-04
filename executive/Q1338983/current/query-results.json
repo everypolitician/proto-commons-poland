@@ -1,0 +1,464 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_pl", "name_en", "party", "party_name_pl", "party_name_en", "district", "district_name_pl", "district_name_en", "role", "role_pl", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_pl", "role_superclass_en", "org", "org_pl", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11771436-3cb87835-47ad-9824-569b-1729367f9b02"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11771436"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Mateusz Morawiecki"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mateusz Morawiecki"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156874"
+      },
+      "party_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prawo i Sprawiedliwość"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Law and Justice"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "district_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-12-11T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1403120-2fb20e68-4199-88b7-05a2-56d8e79898cd"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1403120"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Felicjan Sławoj Składkowski"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Felicjan Sławoj Składkowski"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q210431"
+      },
+      "party_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska Partia Socjalistyczna"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Polish Socialist Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "district_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q323292-f8e45761-4f7b-c3d5-f53a-2f35185f70a1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q323292"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Edward Babiuch"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edward Babiuch"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q537303"
+      },
+      "party_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska Zjednoczona Partia Robotnicza"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Polish United Workers' Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "district_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q559771-763BD18C-B3D4-4CA1-AC88-16E89B669450"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q559771"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Mieczysław Rakowski"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mieczysław Rakowski"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q537303"
+      },
+      "party_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska Zjednoczona Partia Robotnicza"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Polish United Workers' Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "district_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q726857-6fee162f-4559-a391-26af-3c43763fbe7b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q726857"
+      },
+      "name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Władysław Wróblewski"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Władysław Wróblewski"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "district_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "role_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "org_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      }
+    } ]
+  }
+}

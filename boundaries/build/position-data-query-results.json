@@ -6,6 +6,71 @@
     "bindings" : [ {
       "position" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q100172"
+      },
+      "position_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Marszałek Sejmu Rzeczypospolitej Polskiej"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marshal of the Sejm"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "admin_area_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1758037"
+      },
+      "position_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "przewodniczący parlamentu"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "speaker"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98964"
+      },
+      "body_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Sejm Rzeczypospolitej Polskiej"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejm of the Republic of Poland"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19269361"
       },
       "position_name_pl" : {
@@ -132,6 +197,67 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Senate of Poland"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3259469"
+      },
+      "position_name_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Prezes Rady Ministrów"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Poland"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "admin_area_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Polska"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "premier"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1338983"
+      },
+      "body_pl" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada Ministrów w Polsce"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Poland"
       }
     }, {
       "position" : {
